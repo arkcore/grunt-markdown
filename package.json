@@ -53,9 +53,9 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "highlight.js": "~7.3.0",
+    "highlight.js": "~8.2.0",
     "marked": "~0.2.5",
     "grunt-lib-contrib": "~0.3.0",
-    "lodash": "~0.9.1"
+    "lodash": "~2.4.1"
   }
 }
